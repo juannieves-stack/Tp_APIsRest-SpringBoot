@@ -13,7 +13,21 @@ Este repositorio contiene una API REST completa para la gestión de productos, d
   </div>
 
 </div>
-
+---
+<table style="border: 1px solid #d0d7de; border-radius: 10px; border-collapse: separate; border-spacing: 0; overflow: hidden;">
+  <tr>
+    <td align="center" width="100" style="padding: 20px; vertical-align: middle; background-color: #f6f8fa;">
+      <a href="https://github.com/juannieves-stack" target="_blank">
+        <img src="https://github.com/juannieves-stack.png" width="90" alt="Juan Nieves"
+             style="border-radius:50%;">
+      </a>
+    </td>
+    <td align="left" style="padding: 20px 20px 20px 0; vertical-align: middle; background-color: #f6f8fa;">
+      <h3 style="margin:0;">👤 <b>Juan Nieves</b></h3>
+      <sub style="font-size:14px; color: #57606a;">📘 Legajo: <b>45277</b></sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ## Resumen
