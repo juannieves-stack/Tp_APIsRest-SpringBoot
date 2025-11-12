@@ -100,5 +100,58 @@ En la carpeta `CAPTURAS/` se encuentran imágenes con ejemplos reales de uso y c
 - `H2-tabla.jpg` — Vista de la tabla `PRODUCTO` en la consola H2
 - `GET-categoria.jpg`, `PUT-producto.jpg`, `PATCH-stock.jpg`, `DELETE-producto.jpg` — Pruebas adicionales de endpoints
 
+
 ---
+## 📸 Ejemplos de uso y comprobaciones
+
+
+
+### 🚀 **Operaciones principales**
+
+#### ➕ POST — Creación exitosa (201 Created)
+<p align="center">
+  <img src="CAPTURAS/POST-exitoso.jpg" width="600" alt="Ejemplo POST exitoso"/>
+</p>
+
+#### 📦 GET — Listado de productos (200 OK)
+<p align="center">
+  <img src="CAPTURAS/GET-todos.jpg" width="600" alt="Listado GET de productos"/>
+</p>
+
+#### ✏️ PUT / PATCH — Modificación y actualización de datos
+<p align="center">
+  <img src="CAPTURAS/PUT-producto.jpg" width="400" alt="PUT producto"/>
+  <img src="CAPTURAS/PATCH-stock.jpg" width="400" alt="PATCH stock"/>
+</p>
+
+#### ❌ DELETE — Eliminación de producto
+<p align="center">
+  <img src="CAPTURAS/DELETE-producto.jpg" width="600" alt="DELETE producto"/>
+</p>
+
+---
+
+### ⚠️ **Manejo de errores**
+
+#### 🟥 Error 400 — Validación incorrecta
+<p align="center">
+  <img src="CAPTURAS/ERROR-400.jpg" width="600" alt="Error 400 Bad Request"/>
+</p>
+
+#### 🟨 Error 404 — Recurso no encontrado
+<p align="center">
+  <img src="CAPTURAS/ERROR-404.jpg" width="600" alt="Error 404 Not Found"/>
+</p>
+
+---
+
+### 🗃️ **Base de datos (H2 Console)**
+
+#### 🧾 Tabla `PRODUCTO`
+<p align="center">
+  <img src="CAPTURAS/H2-tabla.jpg" width="600" alt="Vista de tabla PRODUCTO en H2"/>
+</p>
+
+---
+
 
